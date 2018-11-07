@@ -1,0 +1,1 @@
+# PHP_VAR-CONST-TYPE
